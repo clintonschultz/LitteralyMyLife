@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Mama4.obj-111c42ed4fb9d1003d2d550f98e805ea.mesh"
+
+[deps]
+
+files=[ "res://.import/Mama4.obj-111c42ed4fb9d1003d2d550f98e805ea.mesh" ]
+
+source_file="res://imports/Mama4.obj"
+dest_files=[ "res://.import/Mama4.obj-111c42ed4fb9d1003d2d550f98e805ea.mesh", "res://.import/Mama4.obj-111c42ed4fb9d1003d2d550f98e805ea.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
